@@ -1,0 +1,10 @@
+h1 {
+font-family: "Arial"; 
+color: red;
+}
+body {
+    font: 200 18px/28px artifakt-element,sans-serif;
+        background-color: rgb(200, 200, 200);
+}
+#poem {
+color purple; }
