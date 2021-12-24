@@ -4,7 +4,11 @@ color: red;
 }
 body {
     font: 200 18px/28px artifakt-element,sans-serif;
-        background-color: rgb(200, 200, 200);
+         background-image: url("castelmezzano-1979546_1920.jpg");
 }
 #poem {
-color purple; }
+color: white;
+}
+#poeh {
+color: red;
+}
